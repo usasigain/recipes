@@ -1,0 +1,7 @@
+1 taco
+1 red pepper
+1 green pepper
+1 onion
+100gr meat
+
+Chop the onion and the peppers. Do them in a pan. Do the meat. Merge both. Put everything in the taco
